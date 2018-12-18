@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 01-Node Ecosystem
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d__
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/michaelageorge/01-node-ecosystem)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
