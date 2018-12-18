@@ -6,10 +6,11 @@
 ### Author: Michael George, Code 401d__
 
 ### Links and Resources
+[![Build Status](https://travis-ci.com/michaelageorge/01-node-ecosystem.svg?branch=master)](https://travis-ci.com/michaelageorge/01-node-ecosystem)
+
 * [repo](https://github.com/michaelageorge/01-node-ecosystem)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [travis](https://travis-ci.com/michaelageorge/01-node-ecosystem)
+* [server](https://lab01-nodeecosystem-george.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
